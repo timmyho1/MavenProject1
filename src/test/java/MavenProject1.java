@@ -1,4 +1,4 @@
-              import org.junit.After;
+import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Ignore;
@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  * Created by 
  * Sample junit test code to integrate by
  */
-public class JenkinsDemo
+public class MavenProject1
 {
     private static String Base_Url = "https://www.facebook.com";
     private WebDriver driver;
